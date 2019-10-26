@@ -3,6 +3,7 @@
     { "id": 1, "food": "Rawon", "calory": 300 },
     { "id": 2, "food": "Gado-gado", "calory": 100 },
     { "id": 3, "food": "Indomie", "calory": 250 },
-    { "id": 4, "food": "Pop Mie", "calory": 250}
+    { "id": 4, "food": "Pop Mie", "calory": 250},
+    { "id": 5, "food": "Bakso", "calory": 150}
   ]
 }
